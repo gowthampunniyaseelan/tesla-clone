@@ -126,7 +126,7 @@ const BurgerNav = styled.div`
     transition:transform 0.4s;
     li{
         padding:15px 0;
-        border-bottom:1px solid rgba(0,0,0,.2);
+        
 
         a{
             font-weight:600;
